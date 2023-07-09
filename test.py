@@ -1,1 +1,1 @@
-print("hom nay la chu nhat")
+print("hom nay la thu 2")
